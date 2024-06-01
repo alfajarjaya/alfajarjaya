@@ -1,28 +1,9 @@
-# Hi there, I'm ALFAJJAR 👋
-## You can call me fajar
-
-Welcome to my GitHub profile! I'm a Student, passionate about web development.
-
-## 🔭 What I'm Currently Working On
-
-- [Manajemen Perpustakaan](https://alfajarjaya.github.io/Manajemen-Perpustakaan-2/): This is a productive subject school assignment.
-- [Website Kelas](https://tkj2skanesa.vercel.app): This is the website for my class.
-- You can see the all projects in this Repositories.
-
-## 🌱 What I'm Currently Learning
-
-- [Javascript](https://www.javascript.com/)
-- [React JS](https://reactjs.com)
-- And all tecnology for JavaScript.
+# Hi there, you can call me Fajar 👋
 
 ## 📫 How to Reach Me
 
 - Website : [Visit me](https://alfajjar.vercel.app)
 - Telegram : [Telegram](https://t.me/Njir_18)
-
-## ⚡ Fun Fact
-
-- I'm learning programming languages ​​autodidactically, it's both boring and confusing, I need to enlighten my mind every time I finish studying every day hahaha
 
 ## 🛠️ Languages and Tools
 
