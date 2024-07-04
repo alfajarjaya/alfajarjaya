@@ -2,7 +2,7 @@
 
 ## 📫 How to Reach Me
 
-- Website : [Visit me](https://alfajjar.vercel.app)
+- Website : [Visit me](https://fajarsite.my.id)
 - Telegram : [Telegram](https://t.me/Njir_18)
 
 ## 🛠️ Languages and Tools
