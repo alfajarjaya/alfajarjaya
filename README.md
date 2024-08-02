@@ -20,10 +20,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfajarjaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alfajarjaya&theme=onedark)
-
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfajarjaya&layout=compact&theme=dark)
